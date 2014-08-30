@@ -1,0 +1,81 @@
+#header {
+	border: none;
+	background-color: white;
+	display:block;
+	font-family: Algerian;
+	font-size: 30px;
+	text-decoration:none; 
+	height: 40px;
+	margin-bottom: 20px;
+	margin-top: -20px;
+}
+
+#decoration {
+	border: 1px solid black;
+	background-color: black;
+	height: 30px;
+}
+
+#description {
+	background-color: white;
+	text-decoration: none;
+	font-family: Verdana;
+	float: right;
+	margin-bottom: 30px;
+}
+
+#syrniky1 {
+	position: relative;
+	float: left;
+		}
+.ingredients {
+	display: block;
+	float: left;
+	position: relative;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Verdana;
+
+}
+
+.main {
+	display: block;
+	background-color: white;
+	text-decoration: none;
+	margin: 20px 20px 20px 20px;
+		border-radius: 5px;
+}
+
+table {
+	border: none;
+
+}
+td {
+	border: none;
+}
+
+p {
+	text-align: left;
+}
+
+.steps {
+	font-size: 20px;
+	font-family: Verdana;
+	border-radius: 10px;
+
+}
+
+img {
+	border-radius: 10px;
+}
+.footer {
+	border: 1px solid #BEBABA;
+	background-color: #BEBABA;
+	height: 30px;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 10px;
+	color: black;
+	clear: both;
+	padding-left: 100px;
+}
